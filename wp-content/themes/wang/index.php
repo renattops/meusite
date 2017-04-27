@@ -3,3 +3,5 @@
 
 // chama o header.php
 	get_header();
+
+//	get_footer();
