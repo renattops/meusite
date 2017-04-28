@@ -30,3 +30,5 @@
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
+
+<img src="<?php header_image(); ?>" <?php /* height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="<?php bloginfo('name'); ?>" */ ?> />
